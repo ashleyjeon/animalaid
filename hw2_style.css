@@ -206,8 +206,7 @@ footer {
 }
 
 
-.tipImg img {
-
+.tipImg {
         width: 320px;
         height: 270px;
         border-radius: 8px;
@@ -217,7 +216,7 @@ footer {
 
 }
 
-.mainTip h2 {
+.mainTip {
        font-size: 21px;
        font-weight: 550;
 }
@@ -292,14 +291,14 @@ tr {
         opacity: 0.8;
         padding: 10px;
         text-align: center;
-        margin-left: 60%;
+        margin-left: 55%;
         margin-top: 0%;
         width: 104%;
 }
    
 .sigi {
         display: flex;
-        margin-left: -65%;
+        margin-left: -55%;
         margin-top: 1%;
         border-radius: 8px;
         border-width: 4px;
@@ -309,7 +308,7 @@ tr {
 
 
 .birdie {
-        margin-left: 80%;
+        margin-left: 70%;
         margin-top: 0%;
         border-radius: 8px;
         border-style: solid;
@@ -323,7 +322,7 @@ tr {
         opacity: 0.8;
         padding: 10px;
         text-align: center;
-        margin-left: -85%;
+        margin-left: -70%;
         margin-top: 8%;
         width: 120%;
 }
